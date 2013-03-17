@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	 background:url(back.jpg) no-repeat;
+	 width:100%;
+}
+*{
+	 font-family:'Fjalla One', sans-serif;
+	 font-size:20px;
+}
+
+.button a{
+	 background:url(button.png) no-repeat;
+	 color:#FFF;
+	 height:71px;
+	 display:block;
+	 width:300px;
+	 padding-top:20px;
+	 margin-top:50px;
+}
+table,tr,td {
+	border:none!important;
+	padding:none;
+	margin:none;
+	
+}
+table tr td{
+	background-color:#FFF;
+	text-align:center;
+	width:150px;
+}
+.black-bar{
+	background-color:#000;
+	color:#FFF;
+	height:30px;
+	width:100%;
+}
+.black-bar a{
+	color:#F39;
+}
+table p{
+	font-size:14px;
+}
