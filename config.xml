@@ -11,12 +11,19 @@
 	</description>
 
 	<author href="http://www.imagecreation.it" email="ice8180@gmail.com">
-		Ilaria
+		imagecreation.it
 	</author>
-
-  <icon src="d2d_72.png" width="72" height="72" />
-  <icon src="d2d_48.png" width="48" height="48" />
-  <icon src="d2d_36.png" width="36" height="36" />
-
-  <gap:splash src="splash.jpg" />
+	<preference name="orientation" value="portrait" />
+  
+	<icon src="d2d_512.png" width="512" height="512" />	
+	<icon src="d2d_144.png" width="144" height="144" />
+	<icon src="d2d_72.png" width="72" height="72" />
+  	<icon src="d2d_48.png" width="48" height="48" />
+  	<icon src="d2d_36.png" width="36" height="36" />
+	
+  	<gap:splash src="splash.jpg" />
+	<gap:splash src="splash480.jpg" />
+	<gap:splash src="splash800.jpg" />
+	<gap:splash src="splash1280.jpg" />
+	<gap:splash src="splash960.jpg" />
 </widget>
