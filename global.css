@@ -32,8 +32,13 @@ table tr td{
 .black-bar{
 	background-color:#000;
 	color:#FFF;
-	height:30px;
+	height:50px;
+	line-height:50px;
+	padding-left:20px;
 	width:100%;
+	position:relative;
+	top:0px;
+	z-index:100;
 }
 .black-bar a{
 	color:#F39;
